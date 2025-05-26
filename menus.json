@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi goreng spesial",
+    "description": "Nasi goreng dengan ayam, telur mata sapi, dan kerupuk",
+    "price": 25000,
+    "type": "Lunch Set"
+  }
+]

@@ -1,0 +1,1 @@
+export {default as MenuController} from "./menuController.js";
